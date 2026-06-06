@@ -473,7 +473,7 @@ html[dir="rtl"] .snapshot-card {
 .project-kicker,
 .contact-details span {
   display: block;
-  color: var(--accent);
+  color: #ffffff;
   text-transform: uppercase;
   letter-spacing: 0.14em;
   font-size: 0.72rem;
