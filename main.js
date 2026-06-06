@@ -106,7 +106,7 @@ const translations = {
     projectsEyebrow: 'Project snapshot',
     projectsTitle: 'Rhodes Grass fields operating at commercial scale.',
     projectsNote:
-      'Select a project to view its field gallery and video placeholders. Replace the media links in main.js with your actual project images and videos.',
+      'Select a project to view its field gallery and videos.',
     snapshotKicker: 'Rhodes Grass project',
     snapshotOneTitle: 'Southern Production Belt',
     snapshotOneText:
@@ -210,7 +210,7 @@ const translations = {
     projectsEyebrow: 'لمحة عن المشاريع',
     projectsTitle: 'حقول رودس جراس تعمل على نطاق تجاري.',
     projectsNote:
-      'اختر مشروعا لعرض معرض الصور ومقاطع الفيديو. استبدل روابط الوسائط في main.js بصور وفيديوهات مشاريعك الفعلية.',
+      'ااختر أحد المشاريع لاستعراض معرض الصور ومقاطع الفيديو الخاصة به.',
     snapshotKicker: 'مشروع رودس جراس',
     snapshotOneTitle: 'حزام الإنتاج الجنوبي',
     snapshotOneText: '2,000 فدان من زراعة رودس جراس الممتاز مع حصاد مرحلي وفحوص جودة على مستوى الحقل.',
