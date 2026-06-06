@@ -480,6 +480,10 @@ html[dir="rtl"] .snapshot-card {
   margin-bottom: 12px;
 }
 
+.snapshot-kicker {
+    color: #ffffff;
+}
+
 .expertise-section {
   padding-bottom: 28px;
 }
