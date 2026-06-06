@@ -81,7 +81,7 @@ const projects = {
 
 const translations = {
   en: {
-    brandLine: 'Premium Rhodes Grass growers in Pakistan',
+    brandLine: 'Premium Rhodes Grass Hay Producer',
     navSnapshots: 'Snapshots',
     navQuality: 'Quality',
     navExpertise: 'Expertise',
@@ -89,9 +89,9 @@ const translations = {
     navContact: 'Contact',
     menu: 'Menu',
     heroEyebrow: '4,000+ acres under Rhodes Grass cultivation',
-    heroTitle: "One of Pakistan's largest premium Rhodes Grass producers.",
+    heroTitle: "One of Pakistan's Leading Rhodes Grass Hay Producers",
     heroText:
-      'Agranchers LLP grows high-quality Rhodes Grass at serious scale across Pakistan, combining disciplined field operations, technical crop expertise, and careful moisture control for dependable premium fodder.',
+      'Agranchers LLP combines large-scale cultivation, technical expertise, and rigorous quality control to deliver consistent, export-grade Rhodes Grass hay for international feed markets.',
     heroPrimary: 'View project snapshots',
     heroSecondary: 'Discuss supply',
     heroPoint1: 'Large-scale Rhodes Grass cultivation across 4,000+ acres',
@@ -185,7 +185,7 @@ const translations = {
     alert: 'Thanks. This inquiry form is ready for your backend or mail workflow.',
   },
   ar: {
-    brandLine: 'مزارعو رودس جراس ممتاز في باكستان',
+    brandLine: 'منتج تبن رودس جراس عالي الجودة',
     navSnapshots: 'المشاريع',
     navQuality: 'الجودة',
     navExpertise: 'الخبرة',
@@ -193,9 +193,9 @@ const translations = {
     navContact: 'تواصل',
     menu: 'القائمة',
     heroEyebrow: 'أكثر من 4,000 فدان من زراعة رودس جراس',
-    heroTitle: 'من أكبر منتجي رودس جراس الممتاز في باكستان.',
+    heroTitle: 'من أبرز منتجي تبن رودس جراس في باكستان',
     heroText:
-      'تزرع Agranchers LLP رودس جراس عالي الجودة على نطاق واسع في باكستان، مع عمليات ميدانية منظمة وخبرة فنية في المحصول وتحكم دقيق في الرطوبة لإنتاج علف ممتاز وموثوق.',
+     'تعد Agranchers LLP من الشركات الرائدة في إنتاج تبن رودس جراس في باكستان، حيث تجمع بين الزراعة واسعة النطاق والخبرة الفنية وأنظمة الجودة الصارمة لتوفير منتجات علفية موثوقة للأسواق الدولية.',
     heroPrimary: 'عرض المشاريع',
     heroSecondary: 'ناقش التوريد',
     heroPoint1: 'زراعة رودس جراس على نطاق واسع عبر أكثر من 4,000 فدان',
