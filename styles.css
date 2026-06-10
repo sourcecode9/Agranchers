@@ -620,10 +620,25 @@ html[dir="rtl"] .snapshot-card {
   width: 100%;
   padding: 14px 16px;
   color: var(--text);
-  border: 1px solid rgba(255, 255, 255, 0.09);
+  border: 1px solid rgba(183, 228, 111, 0.18);
   border-radius: 14px;
   outline: none;
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(17, 28, 20, 0.9);
+  transition: all 0.2s ease;
+}
+
+.contact-form select:hover {
+  border-color: var(--accent);
+  background: rgba(24, 39, 29, 0.95);
+}
+
+.contact-form select option {
+  color: var(--text);
+  background: #142018;
+}
+
+.contact-form select {
+  cursor: pointer;
 }
 
 .contact-form input:focus,
